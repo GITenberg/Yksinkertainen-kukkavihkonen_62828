@@ -1,5 +1,5 @@
 _repo: Yksinkertainen-kukkavihkonen_62828
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Linnankoski, Johannes
@@ -11,6 +11,9 @@ contributor:
     wikipedia:
     - http://fi.wikipedia.org/wiki/Johannes_Linnankoski
     - http://en.wikipedia.org/wiki/Johannes_Linnankoski
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dilling, Lars
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37345
     wikipedia: https://no.wikipedia.org/wiki/Lars_Dilling
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62828#Yksinkertainen-kukkavihkonen
 gutenberg_issued: '2020-08-02'
 gutenberg_type: Text
 identifiers:
